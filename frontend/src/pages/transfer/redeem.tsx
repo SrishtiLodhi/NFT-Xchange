@@ -81,7 +81,7 @@ const Redeem = () => {
                         <F_Child>
                             <LabelTextDiv>
                                 <LabelNam htmlFor="">Sender Blockchain</LabelNam>
-                                <TabSelect name="" id="" placeholder="Select a network">
+                                <TabSelect name="" id="">
                                     <TabOption value="">Select a network</TabOption>
                                 </TabSelect>
                             </LabelTextDiv>
